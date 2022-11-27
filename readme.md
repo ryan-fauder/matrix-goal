@@ -23,6 +23,7 @@ Como criar módulo dividido em pastas.
   - [ ] Onde colocá-los no código
 - [ ] Descobrir como dividir os métodos de uma classe em arquivos distintos
 - [ ] Como fazer tratamento de erros
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Organizar GitHub
+  - [ ] Dividir tarefas
+  - [ ] Definir o padrão de commits
+  - [ ] Ver sobre versionamento, branchs
